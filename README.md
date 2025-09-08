@@ -27,4 +27,4 @@ Git & GitHub, Jupyter Notebook
 🔗 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/vaibhavi-thote-a99b7b353/)
 - [Portfolio](https://codebasics.io/portfolio/Vaibhavi-Thote)
-- 📧 vaibhavithote2024@gmail.com
+- vaibhavithote2024@gmail.com
