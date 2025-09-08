@@ -1,4 +1,4 @@
-### Hi there, I'm Vaibhavi! 👋
+##### Hi there, I'm Vaibhavi! 👋
 
 Welcome to my GitHub profile! I'm passionate about using data analytics to transform raw data into meaningful insights that support strategic decision-making. With hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**, I enjoy building dashboards, analyzing business processes, and solving problems through data-driven approaches.
 
@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to trans
 
 * [LinkedIn](https://www.linkedin.com/in/vaibhavi-thote-a99b7b353/)
 * [Portfolio](https://codebasics.io/portfolio/Vaibhavi-Thote)
-* 📧 vaibhavithote2024@gmail.com
+* vaibhavithote2024@gmail.com
