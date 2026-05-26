@@ -1,38 +1,31 @@
-# Hi there, I'm Vaibhavi! 👋
+# Hi, I'm Vaibhavi 👋
 
-Welcome to my GitHub profile! I'm passionate about using data analytics to transform raw data into meaningful insights that support strategic decision-making. With hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**, I enjoy building dashboards, analyzing business processes, and solving problems through data-driven approaches.
-
----
-
-### 👩‍💼 About Me
-
-* 🎓 Final-year B.Tech student
-* 💼 Aspiring Data & Business Analyst
-* 📊 Experienced in data cleaning, visualization, and KPI tracking
-* 🌱 Continuously learning advanced analytics
+I build data systems — from SQL warehouses to deployed ML and GenAI apps.
+Started with analytics, went deep into machine learning and LLMs.
+Everything here is built from scratch, not tutorials.
 
 ---
 
-### 🛠️ Tools and Languages
+## 🛠️ Stack
 
-* **Excel** (Power Query, Pivot Tables, Dashboards)
-* **Power BI** (DAX, ETL, Business Intelligence)
-* **SQL** (MySQL – data filtering, queries, reporting)
-* **Python** (data manipulation and analysis)
-* Git & GitHub, Jupyter Notebook
+**AI/ML** · Python · Scikit-learn · LangChain · FAISS · RAG · Sentence-Transformers · Streamlit · FastAPI  
+**Analytics** · SQL · Power BI · DAX · Excel · Power Query  
+**Tools** · Git · Jupyter · Groq · HuggingFace
 
 ---
 
-### 📂 Projects
+## 📂 Projects
 
-* [Product-Market Fit Analysis for AirPure Innovations](https://app.powerbi.com/view?r=eyJrIjoiYmI1OWFkYmYtM2ZlNi00NGY5LWE2NTQtOWUwZGQ5M2Y5N2VlIiwidCI6ImQ0MzBkNGE4LThhNDctNDI2OC1iMjk2LTUxMDRlNmY2MmUwZSJ9) – Conducted market analysis using AQI, vehicle trends, and health data to identify target markets and product strategy.
-* [Power BI Dashboard for AtliQ Hardwares](https://app.powerbi.com/view?r=eyJrIjoiOWE0ZTkyNTQtNDQ2Ny00YTViLTkyNGQtNTYzYjNjODlkYzUwIiwidCI6ImQ0MzBkNGE4LThhNDctNDI2OC1iMjk2LTUxMDRlNmY2MmUwZSJ9) – Designed interactive dashboards across finance, sales, marketing, and supply chain for real-time insights.
-* [AtliQ Sales Reports](https://drive.google.com/drive/folders/1hkxNjehVHQZsXi0kFvFesfX6qEgyt8jP) – Built Excel-based reports to analyze customer behavior, market trends, and financial performance.
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [NarrativeIQ](#) | AI-powered analytics using RAG | LangChain · FAISS · Groq |
+| [Goodreads Discovery Engine](https://github.com/vaibhavi944/goodreads-discovery-engine) | Hybrid recommender on 1M+ interactions | ALS · Sentence-Transformers · FAISS |
+| [E-commerce Analytics Warehouse](#) | RFM segmentation, cohort retention, forecasting across 15.6M BRL GMV | PostgreSQL · Python · Power BI |
+| [ReturnSense](https://github.com/vaibhavi944/returnsense) | Return prediction with LLM-powered explanations | XGBoost · SHAP · Groq · Streamlit |
+| [Retail Price Intelligence](https://github.com/vaibhavi944/retail-price-intelligence) | Price elasticity + demand forecasting | Python · Statsmodels · Scipy |
 
 ---
 
-### 🔗 Let’s Connect!
+## 📬 Connect
 
-* [LinkedIn](https://www.linkedin.com/in/vaibhavi-thote-a99b7b353/)
-* [Portfolio](https://codebasics.io/portfolio/Vaibhavi-Thote)
-* vaibhavithote2024@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vaibhavi-thote-a99b7b353/) · [vaibhavithote2024@gmail.com](mailto:vaibhavithote2024@gmail.com)
